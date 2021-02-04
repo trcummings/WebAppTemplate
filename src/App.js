@@ -4,7 +4,7 @@
  * @version 1.0.0
  * @author [Thomsen Cummings](https://github.com/trcummings)
  */
-import React, { useState, useEffect } from "react";
+import React from "react";
 
 const App = () => <div>Hello, World!</div>;
 
