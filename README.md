@@ -23,7 +23,8 @@ Hello, I am Thomsen Cummings, and this is my basic template for web app developm
 ### In Development
 
 1. run `npm install` — You can skip this step if you've already installed the node modules.
-2. run `npm run dev` — This concurrently run the server and start up a Webpack dev server to host the build on `localhost:8080`.
+2. IF THIS IS YOUR FIRST TIME AFTER CLONING run `npm run prod` - This will create the "public" folder, and create the index.html for the dev server to host. Otherwise, skip this step.
+3. run `npm run dev` — This concurrently run the server and start up a Webpack dev server to host the build on `localhost:8080`.
 
 ### Run the Test Suite
 
