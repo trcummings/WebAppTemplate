@@ -6,7 +6,7 @@ Hello, I am Thomsen Cummings, and this is my basic template for web app developm
 
 **Tech stack:**
 
-- React.js for frontend code (incl. a reset.css file, FontAwesome 5.14, and Google Fonts' Open Sans)
+- React.js + SASS (incl. a reset.css file, FontAwesome 5.14, and Google Fonts' Open Sans)
 - Babel and Webpack 4.0 for the build pipeline
 - A simple Express.js config for static serving
 - Jest and Enzyme for testing, if needed
